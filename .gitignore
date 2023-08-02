@@ -1,4 +1,4 @@
 01/S01/bin
 01/S01/lib
 01/S01/.vscode
-.class
+*.class
