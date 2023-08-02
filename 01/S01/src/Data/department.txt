@@ -1,0 +1,8 @@
+51, Information Technology Engineering, Srun Sovilla, 303, 103
+52, Bio Engineering, Long Solida, 780, 103
+53, Telecom, Thap Tharouen, 679, 103
+54, Digital Media, Lim Chetra, 104, 104
+55, Mechanical Engineering, Chan Rotha, 202, 105
+56, Civil Engineering, Sok Sakda, 405, 105
+57, Computer Science, Kim Sophea, 560, 105
+58, English, Peng Sovann, 710, 105
